@@ -15,32 +15,25 @@ El objetivo del proyecto es la elaboración de un proyecto de anális de datos c
 Bibliotecas utilizadas
 
 *NumPy para soporte de arrays y matrices
-import numpy as np
+
 *Pandas para manipulación y análisis de datos
-import pandas as pd
+
 *Datetime y time para trabajar con objetos de fecha y hora
-from datetime import datetime, time
+
 *Matplotlib.pyplot para la creación de gráficos estáticos, animados e interactivos
-import matplotlib.pyplot as plt
+
 *Seaborn, una biblioteca de visualización de datos basada en matplotlib, para hacer gráficos más atractivos
-import seaborn as sns
+
 *Calendar, que proporciona funciones relacionadas con la visualización y manipulación de calendarios y fechas.
-import calendar
+
 *Importa el módulo cm de matplotlib, que es parte de la biblioteca de visualización matplotlib.
-import matplotlib.cm as cm
+
 *Importa la biblioteca folium para la creación de mapas interactivos y su plugin HeatMap para visualizaciones de densidad.
-import folium
-from folium.plugins import HeatMap
-*Activa la extensión autoreload para recargar módulos automáticamente antes de ejecutar el código
-%load_ext autoreload
-*Configura autoreload para que recargue módulos cada vez que se ejecuta una celda
-%autoreload 2
+
 *Importar la biblioteca warnings para controlar las advertencias
-import warnings
-*Ignora todas las advertencias generadas para mantener limpia la salida del notebook
-warnings.filterwarnings("ignore")
-*Me pide instalarlo al hacer el mapa de calor para visualizar en python
-import plotly.express as px
+
+*Importa plotly.express para hacer el mapa de calor para visualizar en python
+
 
 #### ETL
 
