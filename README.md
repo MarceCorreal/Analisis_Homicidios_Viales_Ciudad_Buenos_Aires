@@ -61,7 +61,7 @@ A travez de la columna colún ID_Hecho, se hizo merge de los dos archivos de dat
 Posterior al análisis preliminar, se procede a analizar la información a profundidad, buscando sacar conclusiones de valor que respondan a la problemática descrita en el contexto del proyecto.
 Para lo anterior, se desarrolla el eda en un cuaderno de jupyter, que trata 3 temas principalmente
 
-* Característica de tiempo del hecho
+* Característica temporales del hecho
 * Características geográficas del hecho
 * Características de la víctima
 
@@ -112,6 +112,10 @@ En este caso, mediante la gráfica se puede verificar que durante la semana no h
 ![image](https://github.com/MarceCorreal/PI2_DA/assets/121261433/44768c19-257e-4577-964f-59362e7c98ee)
 
 
+* Distribución geográfica de los hechos: Para entender esta distribución, en un primer momento tuve problemas con el formato de las coordenadas, pues inicialmente tenía las coordenadas en string pero viniendo de objetos, por lo tanto fué necesario separar de nuevo las coordenadas en longitud y latitud, convertir formatos a float, volverlos a unir y dejarlos como objeto. Aunque era el mismo formato, si no hacía esa vuelta el sistema no lo podía graficar.
+De cualquier forma inicialmente se graficó primero el mapa de buenos aires con los puntos de las coordenadas de los hechos,con folium.map, pero esta gráfica era muy dificil de leer, porque quedan todas las flechitas juntas el el mapa:
+
+![image](https://github.com/MarceCorreal/PI2_DA/assets/121261433/b1835eca-c89c-4406-ae94-c8da7924bd8f)
 
 
 
