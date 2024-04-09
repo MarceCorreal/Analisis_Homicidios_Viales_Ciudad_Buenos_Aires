@@ -28,6 +28,14 @@ A travez de la columna colún ID_Hecho, se hizo merge de los dos archivos de dat
 
 [df_accidentes](https://drive.google.com/file/d/1jRNG1FQIQWvNS6mt0mUeJiclwsGFKp9n/view?usp=drive_link)
 
+Posterior al análisis preliminar, se procede a analizar la información a profundidad, buscando sacar conclusiones de valor que respondan a la problemática descrita en el contexto del proyecto.
+Para lo anterior, se desarrolla el eda en un cuaderno de jupyter, que trata 3 temas principalmente
+
+* Característica de tiempo del hecho
+* Características geográficas del hecho
+* Características de la víctima
+
+Los programs que se deberán impliementar para disminuir la cantidad de víctimas mortales estarán dirigidos a estos 3 sectores.
 
 
 
