@@ -12,6 +12,37 @@ En Argentina, cada año mueren cerca de 4.000 personas en siniestros viales, Est
 El objetivo del proyecto es la elaboración de un proyecto de anális de datos con el fin de generar información que le permita a las autoridades locales tomar medidas para disminuir la cantidad de víctimas fatales de los siniestros viales.
 
 ### Desarrollo
+Bibliotecas utilizadas
+
+# NumPy para soporte de arrays y matrices
+import numpy as np
+# Pandas para manipulación y análisis de datos
+import pandas as pd
+# Datetime y time para trabajar con objetos de fecha y hora
+from datetime import datetime, time
+# Matplotlib.pyplot para la creación de gráficos estáticos, animados e interactivos
+import matplotlib.pyplot as plt
+# Seaborn, una biblioteca de visualización de datos basada en matplotlib, para hacer gráficos más atractivos
+import seaborn as sns
+# Calendar, que proporciona funciones relacionadas con la visualización y manipulación de calendarios y fechas.
+import calendar
+# Importa el módulo cm de matplotlib, que es parte de la biblioteca de visualización matplotlib.
+import matplotlib.cm as cm
+# Importa la biblioteca folium para la creación de mapas interactivos y su plugin HeatMap para visualizaciones de densidad.
+import folium
+from folium.plugins import HeatMap
+# Activa la extensión autoreload para recargar módulos automáticamente antes de ejecutar el código
+%load_ext autoreload
+# Configura autoreload para que recargue módulos cada vez que se ejecuta una celda
+%autoreload 2
+# Importar la biblioteca warnings para controlar las advertencias
+import warnings
+# Ignora todas las advertencias generadas para mantener limpia la salida del notebook
+warnings.filterwarnings("ignore")
+# Me pide instalarlo al hacer el mapa de calor para visualizar en python
+import plotly.express as px
+
+#### ETL
 
 Inicialmente, se hace un ETl, entendiendo y limpiando los datos para cada uno de los cuadernos que se entregan en la consigna: etl_hechos y etl_victimas. 
 
@@ -51,6 +82,22 @@ El EDA se desarrolló en un archivo parquet previniendo un tema de espacio, sine
 Se guardo el df_accidentes_analizado en json, para que el df_accidentes crudo quedara como evidencia del proceso, adicionalmente, el sistema no permite guardar el df con el formato de coordenadas en paruqet.
 
 [df_accidentes_analizado](https://drive.google.com/file/d/1VggAvEJezQB6ckIR1B9DPupYTfJLfEbH/view?usp=drive_link)
+
+#### EDA
+
+Aún cuando las gráficas y el desarrollo del EDA se puede visualizar el el notebook de jupiter a continuación voy a compartir las principales 
+conclusiones y gáficas del análisis:
+
+Inicialmente, se utilizó función para validar los datos, buscando donde borrar los nan porque de lo contrario, si borraba los nan en todo el df se borraban todos loa datos pued todas las filas tenian un registro no identificado,
+
+Posteríor, se analizó el área del hecho como toal obteniendo las siguientes conclusiones:
+
+* Distribución Anual de Hechos: Aún cuando al hacer el etl, borré columna de año, día, mes y hora, dejándo una sóla columna en el eda fué necesario separarlo en columnas independientes de nuevo para poder hacer el análisis que buscaba.
+Al graficar la distribución de hechos, se puede ver como
+![image](https://github.com/MarceCorreal/PI2_DA/assets/121261433/ccc83a25-651d-4506-a57e-16896fb7eca4)
+
+* 
+
 
 
 
