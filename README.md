@@ -86,16 +86,25 @@ Inicialmente, se utilizó función para validar los datos, buscando donde borrar
 Posteríor, se analizó el área del hecho como toal obteniendo las siguientes conclusiones:
 
 * Distribución Anual de Hechos: Aún cuando al hacer el etl, borré columna de año, día, mes y hora, dejándo una sóla columna en el eda fué necesario separarlo en columnas independientes de nuevo para poder hacer el análisis que buscaba.
-Al graficar la distribución de hechos, se puede ver como
-![image](https://github.com/MarceCorreal/PI2_DA/assets/121261433/ccc83a25-651d-4506-a57e-16896fb7eca4)
-
-* 
+Al graficar la distribución de hechos, se puede ver como el año con la mayor cantida de hechos fué el 2018, seguido por el 2016. desde ese momento se puede ver una tendencia suave a la disminución hasta el 2019 donde abruptamente baja y se mantiene la tendencia lo quepuede explicarse con el inicio de la pandemia y su posterior estabilización en el 2021:
 
 
 
+![image](https://github.com/MarceCorreal/PI2_DA/assets/121261433/9665fc30-6724-4e08-8d44-0045190c83dc)
+
+
+* Distribución Mensual de Hechos: En este aso, se referencia 
+
+En este caso es clara el impacto de la cantidad de accidentes en Diciembre, lo cual puede explicarse por las fechas devcembrinas, seguido por agosto que también cuadran con las vacaciones de mitad de año. Esta conclusión lleva a sugerir que los programas de prevención que se realicen podrían efectuarse en los meses de Noviembre y Julio 
+
+
+![image](https://github.com/MarceCorreal/PI2_DA/assets/121261433/6d4d7f8d-ce72-48a5-8b38-bc6b3ba1e60a)
 
 
 
+
+
+![image](https://github.com/MarceCorreal/PI2_DA/assets/121261433/a1c24ba8-f52a-4182-ba61-c86c475af92f)
 
 
 
