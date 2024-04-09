@@ -10,6 +10,9 @@ En Argentina, cada año mueren cerca de 4.000 personas en siniestros viales, Est
 ### Objetivo
 
 El objetivo del proyecto es la elaboración de un proyecto de anális de datos con el fin de generar información que le permita a las autoridades locales tomar medidas para disminuir la cantidad de víctimas fatales de los siniestros viales.
+
+### Desarrollo
+
 Inicialmente, se hace un ETl, entendiendo y limpiando los datos para cada uno de los cuadernos que se entregan en la consigna: etl_hechos y etl_victimas. 
 
 [etl_hechos](https://drive.google.com/file/d/1trm4cMmp5ZCqvqb89VRqBQ9fiz69FK_F/view?usp=drive_link)
@@ -28,6 +31,9 @@ A travez de la columna colún ID_Hecho, se hizo merge de los dos archivos de dat
 
 [df_accidentes](https://drive.google.com/file/d/1jRNG1FQIQWvNS6mt0mUeJiclwsGFKp9n/view?usp=drive_link)
 
+
+### Análisis
+
 Posterior al análisis preliminar, se procede a analizar la información a profundidad, buscando sacar conclusiones de valor que respondan a la problemática descrita en el contexto del proyecto.
 Para lo anterior, se desarrolla el eda en un cuaderno de jupyter, que trata 3 temas principalmente
 
@@ -35,7 +41,16 @@ Para lo anterior, se desarrolla el eda en un cuaderno de jupyter, que trata 3 te
 * Características geográficas del hecho
 * Características de la víctima
 
-Los programs que se deberán impliementar para disminuir la cantidad de víctimas mortales estarán dirigidos a estos 3 sectores.
+Los programs sociales y capacitaciones que se deberán impliementar en Buenos Aire  para disminuir la cantidad de víctimas mortales, estarán dirigidos a estos 3 sectores.
+
+Para el análisis profundde de los datos se desarrolló el EDA
+
+[eda_accidentes[(https://drive.google.com/file/d/1ndVjABgyYDN_vIOFxbyIdtplH45lV_Oc/view?usp=sharing)
+
+
+
+
+
 
 
 
