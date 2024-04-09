@@ -101,10 +101,19 @@ En este caso es clara el impacto de la cantidad de accidentes en Diciembre, lo c
 ![image](https://github.com/MarceCorreal/PI2_DA/assets/121261433/6d4d7f8d-ce72-48a5-8b38-bc6b3ba1e60a)
 
 
+Posterior a este análisis me parceión interesante revisar la diferencia de tendencia mensual a travez de los años, para lo cual hice 6 subplots año tras año, indicando lo que revisavamos el grafico anterior donde la tendencia aumenta a los meses de diciembre, pero los años de pandemia 2019, 20 y 21 contaron con tendencias negativas.
+
+![image](https://github.com/MarceCorreal/PI2_DA/assets/121261433/d04aaa01-2056-4c5c-9daf-bef04e06959d)
+
+
+* Distribcución Semanal:  de HechosContinúo con el análisis temporal del hecho, de mayor a menor, anual, mensual y semanal.
+En este caso, mediante la gráfica se puede verificar que durante la semana no hay mayores variaciones en la frecuencia de los hechos de tránsito. En efecto los días donde se evidencia la mayor cantidad de hechos es el fin de semana y los lunes los cuales se puede explicar facilmente. De tal modo que los programas que se realicen pueden ir relacionados a los días de fiesta y el consumo probable de bebidas alcoholicas.
+
+![image](https://github.com/MarceCorreal/PI2_DA/assets/121261433/44768c19-257e-4577-964f-59362e7c98ee)
 
 
 
-![image](https://github.com/MarceCorreal/PI2_DA/assets/121261433/a1c24ba8-f52a-4182-ba61-c86c475af92f)
+
 
 
 
