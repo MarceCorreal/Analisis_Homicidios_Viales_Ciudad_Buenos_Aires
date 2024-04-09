@@ -45,10 +45,12 @@ Los programs sociales y capacitaciones que se deberán impliementar en Buenos Ai
 
 Para el análisis profundde de los datos se desarrolló el EDA
 
-[eda_accidentes[(https://drive.google.com/file/d/1ndVjABgyYDN_vIOFxbyIdtplH45lV_Oc/view?usp=sharing)
+[eda_accidentes](https://drive.google.com/file/d/1ndVjABgyYDN_vIOFxbyIdtplH45lV_Oc/view?usp=sharing)
 
+El EDA se desarrolló en un archivo parquet previniendo un tema de espacio, sinembargo, fué necesario convertir Parquet a un formato compatible con MySQL (json), dado que MySQL no admite directamente el formato Parquet.
+Se guardo el df_accidentes_analizado en json, para que el df_accidentes crudo quedara como evidencia del proceso, adicionalmente, el sistema no permite guardar el df con el formato de coordenadas en paruqet.
 
-
+[df_accidentes_analizado](https://drive.google.com/file/d/1VggAvEJezQB6ckIR1B9DPupYTfJLfEbH/view?usp=drive_link)
 
 
 
