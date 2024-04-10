@@ -152,6 +152,22 @@ Adicionalmente, se puede ver que el rango de la edad de los peatones que mueren 
 
 ![image](https://github.com/MarceCorreal/PI2_DA/assets/121261433/fdc11c61-90d7-49b9-a1c0-b52b92a033da)
 
+## KPIs.
+
+La consigna del proyecto incluye el análisis del comportamiento del cumplimiento de 3 objetivos para reducir la cantidad de víctimas asociados a a 3 indicadores claves de rendimiento KPI asi:
+
+### Reducción Tasa de Homicidios
+
+Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses en CABA, en comparación con el semestre anterior: Este KPI se basa en la Tasa de homicidios en siniestros viales, que mide el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes durante un período específico. Se calcula dividiendo el número de homicidios en siniestros viales por la población total y multiplicando por 100,000. Para el año 2021. El objetivo era reducir la tasa en un 10% para el segundo semestre de 2021, lo que equivale a 1.61. Sin embargo, el KPI resultante fue de 1.66, indicando que se no se cumplió con el objetivo propuesto.
+
+### Reducción cantidad de accidenes mortales de motociclistas
+
+Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año en CABA, respecto al año anterior: Este indicador se basa en la Cantidad de accidentes mortales de motociclistas, que mide el cambio porcentual en el número de accidentes mortales en los que estuvieron involucrados motociclistas entre dos años consecutivos. El objetivo era no soprepasar -44.2 para 2021, lo que representa una reducción del 7%. Sin embargo, el valor obtenido para 2021 fue de 53,3, indicando un aumento del 53% en comparación con 2020, lo que no cumple con el objetivo establecido.
+
+### Reducción en un 10% los homicidios en las avenidas en el último año en CABA
+
+Reducir en un 10% los homicidios en las avenidas en el último año en CABA, respecto al año anterior: Este KPI se basa en los homicidios en las avenidas, que mide el número de víctimas fatales en accidentes de tránsito durante un año. Para el año 2020, fue de 69 victimas, y el objetivo era reducirla a 62 para 2021, lo que representa una disminución del 10%. Sin embargo, el número de víctimas para 2021 fue de 66 victimas, indicando una disminución de homicidios en las avenidas en comparación con el año anterior, pero aún asi insuficiente e incumpliendo así el objetivo establecido.
+
 
 
 
