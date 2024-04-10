@@ -85,6 +85,8 @@ Inicialmente, se utilizó función para validar los datos, buscando donde borrar
 
 Posteríor, se analizó el área del hecho como toal obteniendo las siguientes conclusiones:
 
+#### Análisis Temporal
+
 * Distribución Anual de Hechos: Aún cuando al hacer el etl, borré columna de año, día, mes y hora, dejándo una sóla columna en el eda fué necesario separarlo en columnas independientes de nuevo para poder hacer el análisis que buscaba.
 Al graficar la distribución de hechos, se puede ver como el año con la mayor cantida de hechos fué el 2018, seguido por el 2016. desde ese momento se puede ver una tendencia suave a la disminución hasta el 2019 donde abruptamente baja y se mantiene la tendencia lo quepuede explicarse con el inicio de la pandemia y su posterior estabilización en el 2021:
 
@@ -112,6 +114,8 @@ En este caso, mediante la gráfica se puede verificar que durante la semana no h
 ![image](https://github.com/MarceCorreal/PI2_DA/assets/121261433/44768c19-257e-4577-964f-59362e7c98ee)
 
 
+#### Análisis Geográfico
+
 * Distribución geográfica de los hechos: Para entender esta distribución, en un primer momento tuve problemas con el formato de las coordenadas, pues inicialmente tenía las coordenadas en string pero viniendo de objetos, por lo tanto fué necesario separar de nuevo las coordenadas en longitud y latitud, convertir formatos a float, volverlos a unir y dejarlos como objeto. Aunque era el mismo formato, si no hacía esa vuelta el sistema no lo podía graficar.
 De cualquier forma inicialmente se graficó primero el mapa de buenos aires con los puntos de las coordenadas de los hechos,con folium.map, pero esta gráfica era muy dificil de leer, porque quedan todas las flechitas juntas el el mapa:
 
@@ -127,6 +131,30 @@ Sinembargo esta gráfica tampoco da mayor información, así que filtreré la co
 ![image](https://github.com/MarceCorreal/PI2_DA/assets/121261433/c9a216d7-4eb8-4235-98ab-1f920eacdbab)
 
 La anterior gráfica indica que la comuna de mayor frecuencia de hechos es la comuna número 1, seguida de la 4 y la 9 por loque las campañas de prevención debe iniciar de esa forma.
+
+#### Análisis de las víctimas
+
+* Distribución de Edades de Víctimas de los Hechos
+La gráfica a continuación indica de forma clara que la edades donde se presentan más cantidad de víctimas en accidentes de tráfico es entre los 20 y 30 año, lo que se supone por la juventude inexperiencia al volante, y aunque tiene una tendencia a la baja incrementa de nuevo al rededor de los 70 años, lo cual se expica por la vejész.  Esto es un indicador del tipo de programas y la población a la cual estarán enfocados los programas.
+
+![image](https://github.com/MarceCorreal/PI2_DA/assets/121261433/264d0d9e-1ccb-4e32-a9e2-9818cd3b22ad)
+
+* Distribución anual de la cantidad de Víctimas por género anual:
+La gráfica a continuación permite inferir que todos los años es mayor por un margen considerable la cantidad de víctimas del género masculino.  Esto se puede inferir por el gusto que este género tiene por la velocidad, y por el mayor porcentaje de consumo de alcohol.
+Se ve nuevamente una disminución de víctimas importante en el año 2020 que coincide con el año de la pandemia. Sinembargo es importante dirigir las campañas de prevención a ambos géneros ya que no simpre el rol de la victima es el conductor del vehiculo.
+
+![image](https://github.com/MarceCorreal/PI2_DA/assets/121261433/9ef78ccb-8d74-49e2-bad9-04057936c17a)
+
+* Dispersión del rol de la víctima por edades
+Para terminar el análisis sobre las víctimas, es importante conocer el rol de la víctima dentro de la escena del hecho.  En ese sentido, la gráfica revela que en un alto porcentaje se desconoce el rol de la víctima lo que se puede entender por falta de claridad en el hecho o dificultades con los datos.
+Sinembargo, en contra de lo que se pensaba en el que la víctima era mayoritariamente el conductor, los datos revelan que las víctimas en su mayoría son los peatones sin entender todavía quien es el acusado, para lo cual habrá luego otro análisis.
+Adicionalmente, se puede ver que el rango de la edad de los peatones que mueren en accidentes de tránsito tienen entre 45 y 60 años, lo cual puede entenderse por disminución de facultades como marcha y visión.
+
+![image](https://github.com/MarceCorreal/PI2_DA/assets/121261433/fdc11c61-90d7-49b9-a1c0-b52b92a033da)
+
+
+
+
 
 
 
