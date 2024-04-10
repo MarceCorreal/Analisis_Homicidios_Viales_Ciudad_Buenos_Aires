@@ -118,6 +118,23 @@ De cualquier forma inicialmente se graficó primero el mapa de buenos aires con 
 ![image](https://github.com/MarceCorreal/PI2_DA/assets/121261433/b1835eca-c89c-4406-ae94-c8da7924bd8f)
 
 
+Dado que desde esta gráfica no se puede concluir nada, se realizó en mapa de calor que da mayor información:
+
+![image](https://github.com/MarceCorreal/PI2_DA/assets/121261433/3da0cb8e-cd9c-433d-8ca3-3ca84e53b90f)
+
+Sinembargo esta gráfica tampoco da mayor información, así que filtreré la comuna con mayor frecuencia de hechos:
+
+![image](https://github.com/MarceCorreal/PI2_DA/assets/121261433/c9a216d7-4eb8-4235-98ab-1f920eacdbab)
+
+La anterior gráfica indica que la comuna de mayor frecuencia de hechos es la comuna número 1, seguida de la 4 y la 9 por loque las campañas de prevención debe iniciar de esa forma.
+
+
+
+
+
+
+
+
 
 
 
