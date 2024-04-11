@@ -7,3 +7,4 @@ df_hechos.parquet
 df_victimas.parquet
 df_accidentes.parquet
 mapa_de_calor.html
+df_accidentes_analizado.json
