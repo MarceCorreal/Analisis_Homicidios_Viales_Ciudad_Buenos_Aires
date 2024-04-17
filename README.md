@@ -158,23 +158,23 @@ La consigna del proyecto incluye el análisis del comportamiento del cumplimient
 
 ### Reducción Tasa de Homicidios
 
-Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses en CABA, en comparación con el semestre anterior: Este KPI se basa en la Tasa de homicidios en siniestros viales, que mide el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes durante un período específico. Se calcula dividiendo el número de homicidios en siniestros viales por la población total y multiplicando por 100,000. Para el año 2021. El objetivo era reducir la tasa en un 10% para el segundo semestre de 2021, lo que equivale a 1.61. Sin embargo, el KPI resultante fue de 1.66, indicando que se no se cumplió con el objetivo propuesto.
+Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses en CABA, en comparación con el semestre anterior: Este KPI se basa en la Tasa de homicidios en siniestros viales, que mide el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes durante un período específico. Se calcula dividiendo el número de homicidios en siniestros viales por la población total y multiplicando por 100,000. 
+Se hizo dicha fórmula en DAX pero reduciéndola a su mínima expresió, dividiendo el numero de victimas segundo semestre 2021, sobre las del periodo anterior y en este caso se tuvo un KPI de -2.1 lo que sugiere que fué una meta lograda.
 
 ### Reducción cantidad de accidenes mortales de motociclistas
 
-Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año en CABA, respecto al año anterior: Este indicador se basa en la Cantidad de accidentes mortales de motociclistas, que mide el cambio porcentual en el número de accidentes mortales en los que estuvieron involucrados motociclistas entre dos años consecutivos. El objetivo era no soprepasar -44.2 para 2021, lo que representa una reducción del 7%. Sin embargo, el valor obtenido para 2021 fue de 53,3, indicando un aumento del 53% en comparación con 2020, lo que no cumple con el objetivo establecido.
+Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año en CABA, respecto al año anterior: Este indicador se basa en la Cantidad de accidentes mortales de motociclistas, que mide el cambio porcentual en el número de accidentes mortales en los que estuvieron involucrados motociclistas entre dos años consecutivos. El objetivo era no soprepasar -44.2 para 2021, lo que representa una reducción del 7%. Por ahora no logré sacar el KPI pero le seguiré trebajando ya que con seguridad lo podré presentar en la demo
 
 ### Reducción en un 10% los homicidios en las avenidas en el último año en CABA
 
 Reducir en un 10% los homicidios en las avenidas en el último año en CABA, respecto al año anterior: Este KPI se basa en los homicidios en las avenidas, que mide el número de víctimas fatales en accidentes de tránsito durante un año. Para el año 2020, fue de 69 victimas, y el objetivo era reducirla a 62 para 2021, lo que representa una disminución del 10%. Sin embargo, el número de víctimas para 2021 fue de 66 victimas, indicando una disminución de homicidios en las avenidas en comparación con el año anterior, pero aún asi insuficiente e incumpliendo así el objetivo establecido.
 
 
-### DASHBOAR
+### DASHBOARD
 
-Basados y enlazados con los datos anteriormente expuestos se deja en el repositorio de Google Drive el Dashboard interactivo:
+Basados y enlazados con los datos anteriormente expuestos se presenta en el siguiente enlace el Dashboard.  En esta versión de Dashboard, hace falta finiquitar el segundo KPI que se espera alcanzar a hacerlo y presentarlo en la demo con el profesor
 
-[Dashboard](https://drive.google.com/file/d/1iKbu-PMKwwilCOI9Kxq49B7BiPZZCYay/view?usp=sharing)
-
+(https://app.powerbi.com/view?r=eyJrIjoiODFjYWM3ZjQtMzk1OS00MmJiLWIyNjEtZTc2YWJjY2IzMjQxIiwidCI6Ijc1MDRlMzE4LThlMWUtNGQ1NS1iZmZkLTg3NWI0ZGVlODI2MCIsImMiOjR9 )
 
 
 
