@@ -173,7 +173,7 @@ Reducir en un 10% los homicidios en las avenidas en el último año en CABA, res
 
 Basados y enlazados con los datos anteriormente expuestos se deja en el repositorio de Google Drive el Dashboard interactivo:
 
-[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGI3Y2I2MjEtNzM5Ni00ODA2LTgwNDctNDg3ZjE0YTdmNTk4IiwidCI6Ijc1MDRlMzE4LThlMWUtNGQ1NS1iZmZkLTg3NWI0ZGVlODI2MCIsImMiOjR9&embedImagePlaceholder=true&pageName=ReportSectiondb8385b8c9ae951d54a5)
+[Dashboard]((https://app.powerbi.com/view?r=eyJrIjoiODFjYWM3ZjQtMzk1OS00MmJiLWIyNjEtZTc2YWJjY2IzMjQxIiwidCI6Ijc1MDRlMzE4LThlMWUtNGQ1NS1iZmZkLTg3NWI0ZGVlODI2MCIsImMiOjR9 )
 
 
 
