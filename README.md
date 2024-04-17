@@ -169,7 +169,11 @@ Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el últi
 Reducir en un 10% los homicidios en las avenidas en el último año en CABA, respecto al año anterior: Este KPI se basa en los homicidios en las avenidas, que mide el número de víctimas fatales en accidentes de tránsito durante un año. Para el año 2020, fue de 69 victimas, y el objetivo era reducirla a 62 para 2021, lo que representa una disminución del 10%. Sin embargo, el número de víctimas para 2021 fue de 66 victimas, indicando una disminución de homicidios en las avenidas en comparación con el año anterior, pero aún asi insuficiente e incumpliendo así el objetivo establecido.
 
 
+### DASHBOAR
 
+Basados y enlazados con los datos anteriormente expuestos se deja en el repositorio de Google Drive el Dashboard interactivo:
+
+[Dashboard](https://drive.google.com/file/d/1iKbu-PMKwwilCOI9Kxq49B7BiPZZCYay/view?usp=sharing)
 
 
 
