@@ -159,11 +159,12 @@ La consigna del proyecto incluye el análisis del comportamiento del cumplimient
 ### Reducción Tasa de Homicidios
 
 Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses en CABA, en comparación con el semestre anterior: Este KPI se basa en la Tasa de homicidios en siniestros viales, que mide el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes durante un período específico. Se calcula dividiendo el número de homicidios en siniestros viales por la población total y multiplicando por 100,000. 
-Se hizo dicha fórmula en DAX pero reduciéndola a su mínima expresió, dividiendo el numero de victimas segundo semestre 2021, sobre las del periodo anterior y en este caso se tuvo un KPI de -2.1 lo que sugiere que fué una meta lograda.
+Se realizó la formula DAX de la tasa de homicidios o víctimas y se llevó a la tarjeta de KPI, sumandole a la tarjeta el año de la tabla general.
+Adicional en el objetivo, se incluyo el 10% para activar los colores.  Estos KPI funcionando perfecto se presentarán en la demo directamente.
 
 ### Reducción cantidad de accidenes mortales de motociclistas
 
-Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año en CABA, respecto al año anterior: Este indicador se basa en la Cantidad de accidentes mortales de motociclistas, que mide el cambio porcentual en el número de accidentes mortales en los que estuvieron involucrados motociclistas entre dos años consecutivos. El objetivo era no soprepasar -44.2 para 2021, lo que representa una reducción del 7%. Por ahora no logré sacar el KPI pero le seguiré trebajando ya que con seguridad lo podré presentar en la demo
+Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año en CABA, respecto al año anterior: Este indicador se basa en la Cantidad de accidentes mortales de motociclistas, que mide el cambio porcentual en el número de accidentes mortales en los que estuvieron involucrados motociclistas entre dos años consecutivos. El objetivo era no soprepasar -44.2 para 2021, lo que representa una reducción del 7%. En la primera entrega, el KPI no funcionaba bien, sinembargo, con la suerte que la demo se deoró un poco, mejoré la visual del KPI y funciona de forma excelente!
 
 ### Reducción en un 10% los homicidios en las avenidas en el último año en CABA
 
