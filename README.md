@@ -1,7 +1,5 @@
 ![Texto alternativo](https://github.com/MarceCorreal/PI2_DA/blob/main/Imagen%20GitHub.png)) 
 
-https://github.com/MarceCorreal/PI2_DA/blob/main/Imagen%20GitHub.png
-
 
 # Análisis de Homicidios Viales en la Ciudad Autónoma de Buenos Aires (CABA), Argentina.
 ## Segundo Proyecto individual Henry
