@@ -1,8 +1,7 @@
-![Texto alternativo](https://github.com/MarceCorreal/PI2_DA/blob/main/Imagen%20GitHub.png)) 
+![Texto alternativo](https://github.com/MarceCorreal/PI2_DA/blob/main/Imagen%20GitHub.png)
 
 
 # Análisis de Homicidios Viales en la Ciudad Autónoma de Buenos Aires (CABA), Argentina.
-## Segundo Proyecto individual Henry
 
 Los accidentes de transito son eventos que involucran diferentes tipos de vehículos en las calles de la ciudad.
 Dichos accidentes pueden traer consecuencias desde leves a lesiones graves y fallecimientos,
